@@ -15,43 +15,43 @@
     <ul class="lista-questoes">
       <li>
         <span class="numero-questao">Questão 1</span>
-        <a href="questao1.php" class="botao">Ver Resposta</a>
+        <a href="questao1.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 2</span>
-        <a href="question_2.php" class="botao">Ver Resposta</a>
+        <a href="question_2.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 3</span>
-        <a href="question_3.php" class="botao">Ver Resposta</a>
+        <a href="question_3.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 4</span>
-        <a href="question_4.php" class="botao">Ver Resposta</a>
+        <a href="question_4.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 5</span>
-        <a href="question_5.php" class="botao">Ver Resposta</a>
+        <a href="question_5.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 6</span>
-        <a href="question_6.php" class="botao">Ver Resposta</a>
+        <a href="question_6.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 7</span>
-        <a href="question_7.php" class="botao">Ver Resposta</a>
+        <a href="question_7.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 8</span>
-        <a href="question_8.php" class="botao">Ver Resposta</a>
+        <a href="question_8.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 9</span>
-        <a href="question_9.php" class="botao">Ver Resposta</a>
+        <a href="question_9.php" class="botao">Ver Questão</a>
       </li>
       <li>
         <span class="numero-questao">Questão 10</span>
-        <a href="question_10.php" class="botao">Ver Resposta</a>
+        <a href="question_10.php" class="botao">Ver Questão</a>
       </li>
     </ul>
   </div>
