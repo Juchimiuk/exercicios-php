@@ -1,6 +1,22 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #ddd7c3 ;
+    font-family: sans-serif;
+    background-color: #ddd7c3;
+    margin: 0;
+    padding: 0;
+} 
+h1{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
 }
-
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fffdfd;
+    border-radius: 10px;
+    box-shadow:  1000px rgba(0, 0, 0, 0.1);
+}

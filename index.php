@@ -10,9 +10,8 @@
     <h1>Exercícios PHP</h1>
     <br>
   <div class="container">
-    
-    <p>Aqui estão as 10 questões:</p>
-    <ul class="lista-questoes">
+      <p>Aqui estão as 10 questões:</p>
+          <ul class="lista-questoes">
       <li>
         <span class="numero-questao">Questão 1</span>
         <a href="questao1.php" class="botao">Ver Questão</a>
